@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T11:05:18.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Oq-KOfywy9uL0mDJR88d" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-14T11:34:04.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="imkxekzroPHh5HPX36Rd" version="13.7.9" type="github" pages="4">
   <diagram name="Adattáblák" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2008" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -49,6 +49,9 @@
         <mxCell id="sSYxWt_EnuZ6NZPG__c6-134" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;availableTimeFrames&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Restaurant Id&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;/p&gt;&amp;nbsp; &lt;font color=&quot;#00cccc&quot;&gt;TimeFrame:TimeFramesId&lt;/font&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Date:??&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;CreatedAt&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;UpdatedAt&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;Enabled&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="880" y="260" width="160" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="T0VXTo_A77b-tJue8xXR-35" value="timefram naplozas" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="826" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -63,7 +66,7 @@
         <mxCell id="jYPR-FiKB8z22UnAxUMQ-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Restaurant&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id :1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
           <mxGeometry x="220" y="40" width="160" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="jYPR-FiKB8z22UnAxUMQ-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;FoodCategory&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#cdeb8b;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
+        <mxCell id="jYPR-FiKB8z22UnAxUMQ-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;FoodCategory&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:1 default&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#cdeb8b;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
           <mxGeometry x="400" y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jYPR-FiKB8z22UnAxUMQ-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Igredients&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:2&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#ffcc99;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
@@ -108,7 +111,7 @@
         <mxCell id="r_6XTRJVxmfLocp2_vDE-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Igredients&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:3&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#ffcc99;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
           <mxGeometry x="810" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r_6XTRJVxmfLocp2_vDE-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Igredients&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#ffcc99;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
+        <mxCell id="r_6XTRJVxmfLocp2_vDE-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;(optional)Igredients&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#ffcc99;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
           <mxGeometry x="810" y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5nDjqNcrjtOg4043n8CA-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;OrderItem&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;id:2&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#cdeb8b;" vertex="1" parent="aJrA-q7cUWQbjXlRKqT7-1">
@@ -611,6 +614,9 @@
         <mxCell id="x_vy-YTJ39tVBRvLA_GH-2" value="utolsó n rendelés kiadása" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="uACrWUKFNxRybDHdv2LL-1">
           <mxGeometry x="460" y="540" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3W7725rMGn4awTm7R72w-0" value="hibalista visszaadása" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=none;" vertex="1" parent="uACrWUKFNxRybDHdv2LL-1">
+          <mxGeometry x="570" y="870" width="90" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -686,10 +692,10 @@
           <mxGeometry x="105" y="370" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-S3uxjjIxqTbHavr1QCI-18" value="árat ki módósíthatja?" style="whiteSpace=wrap;html=1;shadow=1;verticalAlign=top;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="3CZ5wsBejAiIXZjBfBDG-1">
-          <mxGeometry x="225" y="370" width="120" height="90" as="geometry" />
+          <mxGeometry x="870" y="460" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-S3uxjjIxqTbHavr1QCI-20" value="timeframek ki állitja be?&lt;br&gt;kiszállítás van&amp;nbsp; vagy nincs?" style="whiteSpace=wrap;html=1;shadow=1;verticalAlign=top;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="3CZ5wsBejAiIXZjBfBDG-1">
-          <mxGeometry x="225" y="460" width="120" height="100" as="geometry" />
+          <mxGeometry x="870" y="560" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-S3uxjjIxqTbHavr1QCI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3CZ5wsBejAiIXZjBfBDG-1" source="-S3uxjjIxqTbHavr1QCI-23" target="-S3uxjjIxqTbHavr1QCI-25">
           <mxGeometry relative="1" as="geometry" />
@@ -779,6 +785,9 @@
         </mxCell>
         <mxCell id="SGt2Rm2qEOnaSEXbGzT6-9" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="3CZ5wsBejAiIXZjBfBDG-1">
           <mxGeometry x="1150" y="310" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-dkzzMgDFYDR9y5oY64d-0" value="timeframek ki állitja be?&lt;br&gt;kiszállítás van&amp;nbsp; vagy nincs?&lt;br&gt;&lt;br&gt;kapcsolo" style="whiteSpace=wrap;html=1;shadow=1;verticalAlign=top;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="3CZ5wsBejAiIXZjBfBDG-1">
+          <mxGeometry x="225" y="412.5" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
