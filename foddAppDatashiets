@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T10:25:18.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="OT8iQGMCqW1k_UN9BpY2" version="13.7.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-14T11:05:18.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Oq-KOfywy9uL0mDJR88d" version="13.7.9" type="github" pages="4">
   <diagram name="Adattáblák" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="2008" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2008" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W6eYJo4bp8gr8JQIIZja" name="tablak kapcsolatai">
-    <mxGraphModel dx="1182" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aJrA-q7cUWQbjXlRKqT7-0" />
         <mxCell id="aJrA-q7cUWQbjXlRKqT7-1" parent="aJrA-q7cUWQbjXlRKqT7-0" />
@@ -250,7 +250,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EmBYCT72oItZMRHQewdq" name="userStory - éhes ember">
-    <mxGraphModel dx="1182" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uACrWUKFNxRybDHdv2LL-0" />
         <mxCell id="uACrWUKFNxRybDHdv2LL-1" parent="uACrWUKFNxRybDHdv2LL-0" />
@@ -615,7 +615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIh2BB4pMcpWwgFYeFnU" name="userStory-étterem">
-    <mxGraphModel dx="1182" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3CZ5wsBejAiIXZjBfBDG-0" />
         <mxCell id="3CZ5wsBejAiIXZjBfBDG-1" parent="3CZ5wsBejAiIXZjBfBDG-0" />
